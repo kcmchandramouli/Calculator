@@ -3,3 +3,6 @@ Addition
 Subtraction
 
 Division
+
+Multiplication
+
